@@ -225,5 +225,4 @@ let suggestions = [
         "VULT QUARTETO SOBRANCELHA 5G",
         "VULT SABONETE LIQUIDO INTIMO CONFORTO 200ml",
         
-
 ]
